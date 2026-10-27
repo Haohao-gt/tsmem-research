@@ -1,0 +1,21 @@
+# build artifacts
+*.sys
+*.dll
+*.lib
+*.exp
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.zip
+*.cepack
+*.img
+*.bin
+
+# runtime/logs
+*.log
+*.txt
+build/
+backup/
+kdu_run/
+ce-src/
